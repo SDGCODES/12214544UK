@@ -1,0 +1,8 @@
+<provenir>
+<WSGateway useExpiry="0" adaptorLibraryPath="/opt/provenir70/conf/configs/AdaptorLibrary.xml">
+	<Security>
+		<LDAP/>
+		<Roles/>
+	</Security>
+</WSGateway>
+</provenir>
